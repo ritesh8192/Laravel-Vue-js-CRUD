@@ -1,2 +1,2 @@
-# Laravel-Vue-js-CRUD
+# Laravel + Vue.js Demo Application
 Vue js CRUD
