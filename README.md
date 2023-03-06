@@ -46,3 +46,4 @@ npm install
 
 npm run dev
 ```
+#### All set.. Navigate to site url to browse demo. 
