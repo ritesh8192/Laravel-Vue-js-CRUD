@@ -4,3 +4,22 @@
 <p align="center">Also contains useful components like Testimonials, Accordion, Carousel, Counter etc.</p>
 
 > The Demo is divided into different SPA (Single Page Application) pages. It also showing use of MPA (Multi Page Application) and SPA (Single Page Application) both at the same time.
+
+## Screenshots
+
+<div class="row">
+  <div class="column">
+    <img src="public/images/screenshots/screenshot_1.png">
+  </div>
+  <div class="column">
+    <img src="public/images/screenshots/screenshot_2.png">
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <img src="public/images/screenshots/screenshot_3.png">
+  </div>
+  <div class="column">
+    <img src="public/images/screenshots/screenshot_4.png">
+  </div>
+</div>
